@@ -29,3 +29,5 @@ THEN I find a concise, descriptive title
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+![01-html-css-git-homework-demo](https://github.com/eagersidekick/Week-One-Challenge_Heather-Crawford/assets/104153043/6074a7f0-d5af-416a-a4aa-c43c631bc48d)
